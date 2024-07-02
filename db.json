@@ -1,0 +1,41 @@
+{
+    "products" : 
+        [
+            {
+                "id":1,
+                "title": "mango",
+                "img": "/mango.jfif",
+                "price": 60
+            },
+            {
+                "id":2,
+                "title": "banana",
+                "img": "/banana.jfif",              
+                "price": 50
+            },
+            {
+                "id":3,
+                "title": "apple",
+                "img": "/apple.jfif",
+                "price": 40
+            },
+            {
+                "id":4,
+                "title": "orange",
+                "img": "/orange.jfif",
+                "price": 30
+            },
+            {
+                "id":5,
+               "title": "melon",
+                "img": "/melon.jfif",
+                "price": 80
+            },
+            {
+                "id":6,
+                "title": "grapes",
+                "img": "/grapes.jfif",
+                "price": 100
+            }
+        ]
+}
